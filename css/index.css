@@ -169,7 +169,7 @@ section .content h1:before, section .content h1::after{
 }
 
 section .content h1::after{
-    top:unset;bottom: -2rem;
+    top:unset; bottom: -2rem;
 }
 
 buttonholder{
@@ -195,4 +195,5 @@ buttonholder{
 section .content p{
     font-size: .8rem;
     width: 70%;
+    margin-top: 10px;
 }
